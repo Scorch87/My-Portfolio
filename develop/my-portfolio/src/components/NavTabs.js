@@ -33,7 +33,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 const SideBarIcon = ({icon, text, active, onClick}) => (
   <div className={`sidebar-icon group ${active ? 'bg-gray-700' : ''}`} onClick={onClick}>
     {icon}
-    <span class="sidebar-tooltip group-hover:scale-100">
+    <span className="sidebar-tooltip group-hover:scale-100">
       {text}
     </span>
   </div>

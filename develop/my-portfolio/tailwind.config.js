@@ -8,6 +8,8 @@ module.exports = {
   ],
   theme: {
     extend: {
+      animation: {},
+      keyframes: {},
       colors:{
         gray:{
           900: '#202225',
