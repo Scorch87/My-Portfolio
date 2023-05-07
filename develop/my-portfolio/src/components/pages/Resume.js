@@ -1,22 +1,37 @@
 import React from 'react';
+import TypeWriter from 'typewriter-effect';
+import myResume from '../../assets/images/EliPrunedaResume.pdf';
+import { saveAs } from 'file-saver';
+
+function downloadPDF() {
+  saveAs(myResume, 'EliPrunedaResume.pdf');
+}
+
+function PDFViewer(props) {
+  return (
+    <div>
+      <embed src={props.pdf} type="application/pdf" width="100%" height="600px" />
+      <button onClick={downloadPDF}>Download PDF</button>
+    </div>
+  );
+}
 
 export default function Resume() {
   return (
-    <div>
-      <h1>Resume Page</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-      </p>
+    <div className="resume-title">
+      <h1><TypeWriter
+      onInit={(typewriter)=>{
+        typewriter.typeString(`My Resume:`)
+        .callFunction(() =>{
+          console.log('Message typed out!');
+        })
+        .start();
+      }}
+      />
+      </h1> 
+      <div>
+      <PDFViewer pdf={myResume} />
+      </div>
     </div>
   );
 }
