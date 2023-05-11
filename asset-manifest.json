@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b5ff6f88.css",
-    "main.js": "/my-portfolio/static/js/main.f6e7babc.js",
-    "static/js/988.c5291e13.chunk.js": "/my-portfolio/static/js/988.c5291e13.chunk.js",
-    "static/media/home-page-3.jpg": "/my-portfolio/static/media/home-page-3.56aedf8d645f3875bb9d.jpg",
-    "static/media/wedding.jpg": "/my-portfolio/static/media/wedding.d2a4223beeb44643c480.jpg",
-    "static/media/broncos.jpg": "/my-portfolio/static/media/broncos.aa7ba251fc0167a8c9f7.jpg",
-    "static/media/family.jpg": "/my-portfolio/static/media/family.152d115c2d9497fcfef1.jpg",
-    "static/media/WeatherDash.JPG": "/my-portfolio/static/media/WeatherDash.c1ea74cfda6f6c9ec161.JPG",
-    "static/media/JATE.jpg": "/my-portfolio/static/media/JATE.564c7d11120f9a441617.jpg",
-    "static/media/readmegenerator.JPG": "/my-portfolio/static/media/readmegenerator.9c256deff1490a350091.JPG",
-    "static/media/AndrewsList.JPG": "/my-portfolio/static/media/AndrewsList.0f54363fa8966f81c224.JPG",
-    "static/media/socialmediaAPI.JPG": "/my-portfolio/static/media/socialmediaAPI.e01930f6557905d6d152.JPG",
-    "static/media/EliPrunedaResume.pdf": "/my-portfolio/static/media/EliPrunedaResume.5fb1d3be3fdb021a4280.pdf",
-    "static/media/notetaker.JPG": "/my-portfolio/static/media/notetaker.0d46630718c4ee938165.JPG",
-    "index.html": "/my-portfolio/index.html",
-    "main.b5ff6f88.css.map": "/my-portfolio/static/css/main.b5ff6f88.css.map",
-    "main.f6e7babc.js.map": "/my-portfolio/static/js/main.f6e7babc.js.map",
-    "988.c5291e13.chunk.js.map": "/my-portfolio/static/js/988.c5291e13.chunk.js.map"
+    "main.css": "/My-Portfolio/static/css/main.b5ff6f88.css",
+    "main.js": "/My-Portfolio/static/js/main.82836ce7.js",
+    "static/js/988.c5291e13.chunk.js": "/My-Portfolio/static/js/988.c5291e13.chunk.js",
+    "static/media/home-page-3.jpg": "/My-Portfolio/static/media/home-page-3.56aedf8d645f3875bb9d.jpg",
+    "static/media/wedding.jpg": "/My-Portfolio/static/media/wedding.d2a4223beeb44643c480.jpg",
+    "static/media/broncos.jpg": "/My-Portfolio/static/media/broncos.aa7ba251fc0167a8c9f7.jpg",
+    "static/media/family.jpg": "/My-Portfolio/static/media/family.152d115c2d9497fcfef1.jpg",
+    "static/media/WeatherDash.JPG": "/My-Portfolio/static/media/WeatherDash.c1ea74cfda6f6c9ec161.JPG",
+    "static/media/JATE.jpg": "/My-Portfolio/static/media/JATE.564c7d11120f9a441617.jpg",
+    "static/media/readmegenerator.JPG": "/My-Portfolio/static/media/readmegenerator.9c256deff1490a350091.JPG",
+    "static/media/AndrewsList.JPG": "/My-Portfolio/static/media/AndrewsList.0f54363fa8966f81c224.JPG",
+    "static/media/socialmediaAPI.JPG": "/My-Portfolio/static/media/socialmediaAPI.e01930f6557905d6d152.JPG",
+    "static/media/EliPrunedaResume.pdf": "/My-Portfolio/static/media/EliPrunedaResume.5fb1d3be3fdb021a4280.pdf",
+    "static/media/notetaker.JPG": "/My-Portfolio/static/media/notetaker.0d46630718c4ee938165.JPG",
+    "index.html": "/My-Portfolio/index.html",
+    "main.b5ff6f88.css.map": "/My-Portfolio/static/css/main.b5ff6f88.css.map",
+    "main.82836ce7.js.map": "/My-Portfolio/static/js/main.82836ce7.js.map",
+    "988.c5291e13.chunk.js.map": "/My-Portfolio/static/js/988.c5291e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5ff6f88.css",
-    "static/js/main.f6e7babc.js"
+    "static/js/main.82836ce7.js"
   ]
 }
