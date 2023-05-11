@@ -1,4 +1,4 @@
-# My-Portfolion
+# My-Portfolio
 This is my personal portfolio, built using React and Tailwind CSS.
 
 <a name="installation"></a>
