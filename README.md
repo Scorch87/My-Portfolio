@@ -9,15 +9,11 @@ Follow instructions here: https://create-react-app.dev/docs/getting-started/
 1. [Installation Instructions](#installation)
         
 2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [Testing Instructions](#testing)
+3. [Testing Instructions](#testing)
         
-5. [Questions](#questions)
-6. [Licensing](#license)
-<a name="contributing"></a>
-        
-## Contributing
-undefined
+4. [Questions](#questions)
+5. [Licensing](#license)
+
 <a name="usage"></a>
         
 ## Usage
@@ -26,10 +22,7 @@ Navigate through this portfolio using the side navigation.
         
 ## License Information
 Public Domain
-<a name="testing"></a>
-        
-## Testing
-N/A
+
 <a name="questions"></a>
         
 ## Questions
