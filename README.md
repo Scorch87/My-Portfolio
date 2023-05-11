@@ -1,10 +1,7 @@
 # My-Portfolio
 This is my personal portfolio, built using React and Tailwind CSS.
 
-<a name="installation"></a>
-        
-## Installation
-Follow instructions here: https://create-react-app.dev/docs/getting-started/
+
 ## Table of Contents:
 1. [Installation Instructions](#installation)
         
@@ -13,6 +10,12 @@ Follow instructions here: https://create-react-app.dev/docs/getting-started/
         
 4. [Questions](#questions)
 5. [Licensing](#license)
+
+<a name="installation"></a>
+        
+## Installation
+Follow instructions here: https://create-react-app.dev/docs/getting-started/
+
 
 <a name="usage"></a>
         
